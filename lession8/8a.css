@@ -1,4 +1,5 @@
-input {
-  display: block;
-  margin-bottom: 5px;
+.class1,.class2{
+    display: block;
+    margin: 5px;
+    padding: 5px 10px; 
 }
