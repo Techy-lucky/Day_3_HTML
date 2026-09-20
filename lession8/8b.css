@@ -1,5 +1,12 @@
-p {
-  display: inline-block;
-  width: 200px;
-  vertical-align: middle;
+.class1{
+    display: inline-block;
+    vertical-align: middle;
+    width: 100px;
+    margin-right: 10px;
+}
+.class2,.class3{
+    /* vertical-align: middle; */
+    /* display: inline-block; */
+    margin: 2px;
+    padding: 5px 10px; 
 }
